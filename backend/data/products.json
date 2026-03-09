@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "title": "Телефон Basic",
+      "description": "Простой телефон для звонков и сообщений",
+      "price": 199,
+      "category": "electronics",
+      "available": true,
+      "imageUrl": ""
+    },
+    {
+      "id": "p2",
+      "title": "Футболка Classic",
+      "description": "Базовая хлопковая футболка",
+      "price": 29,
+      "category": "clothes",
+      "available": true,
+      "imageUrl": ""
+    },
+    {
+      "id": "p3",
+      "title": "Печенье Sweet",
+      "description": "Сладкое печенье к чаю",
+      "price": 10,
+      "category": "food",
+      "available": false,
+      "imageUrl": ""
+    }
+  ]
+}

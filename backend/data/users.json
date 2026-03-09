@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": "7d41fa7e-17c5-471b-a89d-13a510002498",
+      "name": "Test",
+      "email": "test@gmail.com",
+      "login": "TestLogin",
+      "phone": "+375259998741",
+      "password": "pass123",
+      "role": "customer",
+      "cartItems": [],
+      "deliveries": [
+        {
+          "id": "d62d282c-a9e4-4ca0-b0c8-3e695be1ec2c",
+          "userId": "7d41fa7e-17c5-471b-a89d-13a510002498",
+          "items": [
+            {
+              "productId": "p2",
+              "quantity": 3
+            }
+          ],
+          "address": "Колесникова",
+          "phone": "+375259998741",
+          "email": "test@gmail.com",
+          "paymentMethod": "cash",
+          "createdAt": "2026-03-09T13:15:27.195Z",
+          "status": "created"
+        }
+      ],
+      "sessionToken": "7408cc64-780e-495f-9256-f79ed7ddd195"
+    }
+  ]
+}
